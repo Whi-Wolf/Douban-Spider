@@ -1,7 +1,4 @@
-王语晨
-2022104842
-
-python期末题目3
+python爬虫
 使用scrapy框架加入beautifulsoup，实现豆瓣读书（一周热门图书榜）图书信息爬取。
 scrapyitem通过pipeline将图书名字、作者、图片，依次放入word文件，文件名为book.doc；
 利用beautifulsoup爬取每本书书评，总结成词云图，保存在工程目录的wordcloud文件夹下。
